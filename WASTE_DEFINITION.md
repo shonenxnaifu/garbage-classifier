@@ -1,6 +1,6 @@
 # Breaking Down Category of Waste
-I will breaking down the primary categories of waste to 3 categories. 
-This Categories are based on this article: [Understanding the Different Types of Waste](https://www.reelpaper.com/blogs/reel-talk/types-of-waste?srsltid=AfmBOooOT_nUQgx4GtybuQCz3vI5pJp3UbmFR9AmJsNROYAF5WvszdAV)
+I will break down the primary categories of waste into 3 main types. 
+These Categories are based on the following article: [Understanding the Different Types of Waste](https://www.reelpaper.com/blogs/reel-talk/types-of-waste?srsltid=AfmBOooOT_nUQgx4GtybuQCz3vI5pJp3UbmFR9AmJsNROYAF5WvszdAV)
 
 ## 1. Organic Waste
 Organic waste is a broad term that encompasses all plant- and animal-based materials that can decompose naturally. This includes food scraps, yard trimmings, paper, cardboard, and even some types of plastic. When organic waste is composted, it breaks down into nutrient-rich soil that can be used to grow new plants. This process helps to reduce the amount of waste that goes into landfills, and it also helps to improve soil quality.
@@ -26,7 +26,7 @@ Often overlooked, liquid waste is another diverse category, encompassing wastewa
 Recyclable waste includes materials like plastics, paper, glass, and metals, which can be reprocessed and transformed into new products. Recycling plays a crucial role in conserving natural resources, reducing the need for raw materials, and minimizing environmental impacts associated with resource extraction and waste disposal. By redirecting recyclable materials away from landfills, we can significantly reduce the strain on our environment and foster a more sustainable and circular economy. The active participation of both individuals and industries in recycling programs is vital in maximizing the benefits of this process and ensuring a more sustainable future.
 
 # Determines candidate labels
-After breaking down category of waste i will determine possible candidate labels based on categories that defined before through this table.
+After breaking down the categories of waste, i will determine possible candidate labels based on the categories defined earlier, using the following table.
 
 | **Category**     | **Candidate Labels**                                                                                                                                                                                                                                                                                                                  | **Description**                                                                                                              |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
