@@ -10,6 +10,25 @@ COPY ./app ./app
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8123"]
 # ---------- Script 1 ----------
 
+# ---------- Script 1 with VENV ----------
+# FROM python:3.10-slim
+#
+# # Create a virtual environment
+# RUN python -m venv /venv
+# # Set the virtual environment path
+# ENV PATH="/venv/bin:$PATH"
+#
+# WORKDIR /app
+# COPY requirements.txt .
+# # Install dependencies in the virtual environment
+# RUN pip install --no-cache-dir -r requirements.txt
+#
+# COPY ./app ./app
+#
+# # Activate virtual environment and run the application
+# CMD ["/venv/bin/uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8123"]
+# ---------- Script 1 with VENV ----------
+
 # ---------- Script 2 ----------
 # Stage 1: Build Environment
 # FROM python:3.10 as builder
